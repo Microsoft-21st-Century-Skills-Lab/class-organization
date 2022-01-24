@@ -12,7 +12,7 @@
 9. System Design & Scalability --> Sayed Omar
 10. Sorting & Searching --> Sebastian
 11. Testing --> Clemence
-12. C & C++(Everyone learn on own) --> Done 
+12. C & C++(Everyone learn by self) --> Done 
 13. Java --> Keenan
 14. Databases --> Everlyne
 15. Threads & locks --> Sebastian
